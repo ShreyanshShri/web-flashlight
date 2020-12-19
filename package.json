@@ -1,0 +1,16 @@
+{
+  "name": "control-led",
+  "version": "1.0.0",
+  "description": "A simple arduino project with leds",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Shreyansh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "johnny-five": "^2.0.0",
+    "socket.io": "^3.0.4"
+  }
+}
