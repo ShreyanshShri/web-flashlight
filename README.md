@@ -9,7 +9,7 @@ node server
 ```
 
 ### setting up the arduino
-Firstly you need to upload the library in arduino... Then only you will be able to run js in arduino<br>
+Firstly you need to upload the standardFirmataPlus library in arduino... Then only you will be able to run js in arduino<br>
 You can find many tutorials for that. <br>
 Then connect the small pin of led to gnd and longer pin in pin 13.. If you dont have leds dont worry.. Arduino provides a inbuilt led in pin 13.<br>
 Then run the server and there you go :). <br>
